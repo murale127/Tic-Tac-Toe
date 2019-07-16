@@ -1,0 +1,9 @@
+MURALE's stats 
+LEVEL --- EASY
+Wins: 12
+Losses:5
+Ties:1
+LEVEL --- HARD
+Wins: 5
+Losses:2
+Ties:11
